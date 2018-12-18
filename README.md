@@ -7,11 +7,11 @@ Aluno Do IFRN - Campus Ceará - Mirim
  1. Facebook - Ferreira Tawan
  2. whatsapp - 9- 9685 - 8135
 ## jogos
- **Geritama**
+ -**Geritama**
  
- **midnight despair**
+ -**midnight despair**
  
- **the sweet escape**
+ -**the sweet escape**
 
 ### artes
 
