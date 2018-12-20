@@ -1,18 +1,20 @@
-# Meu Portifolio.
+# Meu Portfólio
 
-Tawan Xavier Ferreira 
+## Minhas Informações 
 
-17 anos
+Tawan Xavier Ferreira;
 
-Aluno Do IFRN - Campus Ceará - Mirim 
+17 anos;
 
-# contatos 
+Aluno Do IFRN - Campus Ceará - Mirim. 
 
-1. Facebook - Ferreira Tawan
+## contatos 
+
+1. Facebook - {Ferreira Tawan}(https://www.facebook.com/tawan.silva.549) 
 
 2. whatsapp - 9- 9685 - 8135
 
-# Jogos
+## Jogos
  
  1.**Geritama**
  
@@ -26,5 +28,5 @@ Aluno Do IFRN - Campus Ceará - Mirim
  
  <a href="https://ruanaffff.github.io/DOCEFUGA/" target="_blank"> ![the sweet escape](TSE.png) </a>
 
-# Feitos Realizados
+## Feitos Realizados
 
