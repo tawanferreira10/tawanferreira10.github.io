@@ -1,6 +1,5 @@
    # Meu Portfólio
 
-## Minhas Informações 
 
 Tawan Xavier Ferreira; 
 
