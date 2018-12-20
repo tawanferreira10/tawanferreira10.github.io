@@ -8,7 +8,7 @@ Tawan Xavier Ferreira;
 
 17 anos;
 
-Aluno Do IFRN - Campus Ceará - Mirim. 
+Aluno Do IFRN (Programador de Jogos Digitais) - Campus Ceará - Mirim. 
 
 ## contatos 
 
@@ -31,6 +31,7 @@ Aluno Do IFRN - Campus Ceará - Mirim.
  <a href="https://ruanaffff.github.io/DOCEFUGA/" target="_blank"> ![the sweet escape](TSE.png) </a> 
  
  4.**Jogo novo**
+    
     AGUARDEM! 
 
 ## Feitos Realizados
