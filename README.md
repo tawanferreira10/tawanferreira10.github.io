@@ -2,7 +2,7 @@
 
 Tawan Xavier Ferreira; 
 
-![Eu mesmo](perfil.jpg)
+![Eu mesmo](perfil2.jpg)
 
 17 anos;
 
@@ -12,7 +12,9 @@ Aluno Do IFRN (Programador de Jogos Digitais) - Campus Ceará - Mirim.
 
 1. Facebook - <a href="https://www.facebook.com/tawan.silva.549" target="_blank"> Ferreira Tawan </a>
 
-2. whatsapp - 9- 9685 - 8135
+2. whatsapp - (+55-(84)-9-9685-8135)
+
+3. tawan.matheus2015@gmail.com
 
 ## Jogos
  
@@ -31,6 +33,7 @@ Aluno Do IFRN (Programador de Jogos Digitais) - Campus Ceará - Mirim.
  4.**Jogo novo**
     
     AGUARDEM! 
+    
 
 ## Feitos Realizados
  
