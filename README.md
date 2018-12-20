@@ -10,7 +10,7 @@ Aluno Do IFRN - Campus Ceará - Mirim.
 
 ## contatos 
 
-1. Facebook - [Ferreira Tawan](https://www.facebook.com/tawan.silva.549) 
+1. Facebook - <a href="https://www.facebook.com/tawan.silva.549" target="_blank"> Ferreira Tawan </a>
 
 2. whatsapp - 9- 9685 - 8135
 
