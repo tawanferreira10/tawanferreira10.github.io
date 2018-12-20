@@ -10,12 +10,12 @@ Aluno Do IFRN - Campus Ceará - Mirim
  
  1.**Geritama**
  
-   [![Geritama](personagem1-sheet2.png)](https://tawanferreira10.github.io/geritama/)
+   <a href="https://tawanferreira10.github.io/geritama/"_ target ="_blank"> ![Geritama](personagem1-sheet2.png) </a>
 
 2.**midnight despair**
-
-   [Primeiro jogo](Scarlleon.github.io/MidnightDespair/)
- 
+   
+  <a href="Scarlleon.github.io/MidnightDespair/"_ target ="_blank"> ![midnight despair](MDS.png) </a>
+   
  3.**he sweet escape**
  
    [Segundo jogo](https://ruanaffff.github.io/DOCEFUGA/)
