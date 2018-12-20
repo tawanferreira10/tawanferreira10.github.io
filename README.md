@@ -16,9 +16,9 @@ Aluno Do IFRN - Campus Ceará - Mirim
    
   <a href="Scarlleon.github.io/MidnightDespair/" target="_blank"> ![midnight despair](MDS.png) </a>
    
- 3.**he sweet escape**
+ 3.**the sweet escape**
  
-    <a href="https://ruanaffff.github.io/DOCEFUGA/" target="_blank"> ![TSE](TSE.png) </a>
+    <a href="https://ruanaffff.github.io/DOCEFUGA/" target="_blank"> ![the sweet escape](TSE.png) </a>
 
 ### artes
 
