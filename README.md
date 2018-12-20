@@ -1,4 +1,4 @@
-# Meu Portfólio
+   # Meu Portfólio
 
 ## Minhas Informações 
 
@@ -29,4 +29,6 @@ Aluno Do IFRN - Campus Ceará - Mirim.
  <a href="https://ruanaffff.github.io/DOCEFUGA/" target="_blank"> ![the sweet escape](TSE.png) </a>
 
 ## Feitos Realizados
-
+ 
+ Vice-campeão do intercampi em 2017 pelo IFCM/Campeão do intercampi em 2018 pelo IFCM
+ 
