@@ -4,7 +4,7 @@
 
 Tawan Xavier Ferreira; 
 
-
+![Eu mesmo](perfil.jpg)
 
 17 anos;
 
@@ -34,7 +34,8 @@ Aluno Do IFRN - Campus Ceará - Mirim.
  
  Vice-campeão do intercampi em 2017 pelo IFCM
  
- 
+ ![2017](2017.jpg)
  
  Campeão do intercampi em 2018 pelo IFCM
  
+ ![2018](2018.jpg)
