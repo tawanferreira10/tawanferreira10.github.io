@@ -18,7 +18,7 @@ Aluno Do IFRN - Campus Ceará - Mirim
    
  3.**he sweet escape**
  
-   [Segundo jogo](https://ruanaffff.github.io/DOCEFUGA/)
+    <a href="https://ruanaffff.github.io/DOCEFUGA/" target="_blank">
 
 ### artes
 
