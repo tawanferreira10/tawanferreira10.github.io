@@ -10,13 +10,15 @@ Aluno Do IFRN - Campus Ceará - Mirim
  
  1.**Geritama**
  
- ![imagem bonita](https://www.google.com.br/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiJ2bewmq7fAhXJl5AKHRFECFoQjRx6BAgBEAU&url=http%3A%2F%2Fgamelogia.com.br%2Fgaleria-de-imagens-games-geral-4%2F&psig=AOvVaw0mJdHYYzVgu2jlEMJk0kqj&ust=1545388351472055)
+   [![Geritama](personagem1-sheet2.png)](https://tawanferreira10.github.io/geritama/)
 
 2.**midnight despair**
 
-[Primeiro jogo](Scarlleon.github.io/MidnightDespair/)
+   [Primeiro jogo](Scarlleon.github.io/MidnightDespair/)
  
  3.**he sweet escape**
+ 
+   [Segundo jogo](https://ruanaffff.github.io/DOCEFUGA/)
 
 ### artes
 
