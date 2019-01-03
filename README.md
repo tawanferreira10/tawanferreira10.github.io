@@ -32,7 +32,7 @@ Aluno Do IFRN (Programador de Jogos Digitais) - Campus Ceará - Mirim.
  
  4.**Geomatrix**
     
-   <a href="https://tawanferreira10.github.io/Geo/" target="_blank"> ![Geritama](personagem1-sheet2.png) </a>
+   <a href="https://tawanferreira10.github.io/Geo/" target="_blank"> ![Geo](JOGO4.png) </a>
     
 
 ## Feitos Realizados
