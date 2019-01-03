@@ -30,9 +30,9 @@ Aluno Do IFRN (Programador de Jogos Digitais) - Campus Ceará - Mirim.
  
  <a href="https://ruanaffff.github.io/DOCEFUGA/" target="_blank"> ![the sweet escape](TSE.png) </a> 
  
- 4.**Jogo novo**
+ 4.**Geomatrix**
     
-    AGUARDEM! 
+   <a href="https://tawanferreira10.github.io/Geo/" target="_blank"> ![Geritama](personagem1-sheet2.png) </a>
     
 
 ## Feitos Realizados
