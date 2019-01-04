@@ -1,0 +1,32 @@
+﻿{
+	"version": 1546567235,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/bg-sheet0.png",
+		"images/colisorpersona-sheet0.png",
+		"images/persona-sheet0.png",
+		"images/persona-sheet1.png",
+		"images/persona-sheet2.png",
+		"images/persona-sheet3.png",
+		"images/persona-sheet4.png",
+		"images/persona-sheet5.png",
+		"images/chão.png",
+		"images/chão2-sheet0.png",
+		"images/inimigo-sheet0.png",
+		"images/moeda-sheet0.png",
+		"media/corrida ogg.ogg",
+		"media/salto definitivo ogg.ogg",
+		"media/vocal ritual womann.ogg",
+		"media/yahh definitivo ogg.ogg",
+		"media/plim.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
